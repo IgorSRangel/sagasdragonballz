@@ -349,11 +349,11 @@ p{
 
 @media screen and (min-width:1000px){
     .slide{
-        height: 83.5vh; 
+        height: 84vh; 
     }
 
     .slide img{
-        height: 83.5vh;
+        height: 84vh;
     }
 }
 /*------------------------ SAGAS --------------------*/
