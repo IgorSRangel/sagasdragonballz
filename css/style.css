@@ -338,15 +338,24 @@ p{
 
     .slide{
         max-width: 1400px;
-        height: 75vh;  
+        height: 60vh;  
         margin-top: -2px;
     }
 
     .slide img{
-        height: 75vh;
+        height: 60vh;
     }
 }
 
+@media screen and (min-width:1000px){
+    .slide{
+        height: 83.5vh; 
+    }
+
+    .slide img{
+        height: 83.5vh;
+    }
+}
 /*------------------------ SAGAS --------------------*/
 
 .Sagas{
