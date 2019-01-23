@@ -411,7 +411,7 @@ p{
 
 /*---------------- RESPONSIVIDADE SAGAS E BOTAO TOPO -------------------*/
 
-@media screen and (min-width:700px){
+@media screen and (min-width: 600px){
     .Sagas img{
         height: 300px;
     }
