@@ -57,7 +57,7 @@ p{
     text-align: center;
     font-weight: normal;
     line-height: 21px;
-    font-size: 13.5px;
+    font-size: 14px;
 }
 
 /*----------- BARRA DE MENU TOPO -------------*/
@@ -437,7 +437,7 @@ p{
         padding: 5px;
         position: fixed;
         bottom: 0;
-        right: 8px;
+        right: 1px;
     }
 
     .btn-topo:hover{
