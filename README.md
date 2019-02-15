@@ -7,3 +7,7 @@ Site destinado a introdução ao Anime Dragon Ball Z, onde é abordado as princi
 
 # Inspiração:
 http://www.dragonballz.com/
+# Screenshot: 
+
+
+![Screenshot do site](./ img /Screenshot_Sagas Dragon Ball Z.png)
